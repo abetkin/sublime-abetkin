@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/Oblivion (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "detect_indentation": false,
+}
