@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better TypeScript",
+		"Boron Color Scheme",
+		"ColorSchemeEditor",
+		"Extract Sublime Package",
+		"Github Color Theme",
+		"Jedi - Python autocompletion",
+		"KWrite Color Scheme",
+		"Laravel Color Scheme",
+		"Oblivion Color Scheme",
+		"Package Control",
+		"Python Breakpoints",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL",
+		"Summerfruit Color Scheme",
+		"Terminal",
+		"TerminalProjectFolder",
+		"Whitespace"
+	]
+}

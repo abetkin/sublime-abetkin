@@ -1,14 +1,20 @@
 {
-	"color_scheme": "Packages/Oblivion Color Scheme/Oblivion.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Capo-Light (SL).tmTheme",
 	"detect_indentation": false,
+	"ensure_single_trailing_newline": true,
+	"extract_sublime_package_ask_on_open": true,
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"overlay_scroll_bars": "enabled",
+	"remove_trailing_whitespace_on_save": true,
+	"rulers":
+	[
+		80
+	],
+	"show_minimap": false,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-    "overlay_scroll_bars": "enabled",
-    "draw_minimap_border": true,
-    "always_show_minimap_viewport": true,
+	"translate_tabs_to_spaces": true
 }
